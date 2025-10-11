@@ -1,0 +1,29 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    color: chartreuse;
+    font-size: 40px;
+}
+#brow {
+    color: brown;
+    font-size: 30px;
+}
+#fruta{
+    color: orange;
+    font-size: 30px;
+}
+.parrafo {
+    color: blueviolet;
+    font-size: 23px;
+}
+.listaingredientes{
+    color: palevioletred;
+    font-style: oblique;
+    font-size: medium;
+}
+.pasos{
+    color: goldenrod;
+    font-style: oblique;
+    font-size: medium;
+}
