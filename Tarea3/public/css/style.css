@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+/*.henny-penny-regular {
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+/*.schoolbell-regular {
+  font-family: "Schoolbell", cursive;
+  font-weight: 400;
+  font-style: normal;
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+/*.nunito-sans-<uniquifier> {
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+*/
+body{
+    background-color:#ece2c6;
+}
+h1{
+    font-family: Henny Penny;
+}
+h2{
+    font-family:Schoolbell ;
+    color: #008a8a;
+}
+p{
+    font-family: Nunito Sans;
+    color:#a23c26;
+}
+.listaspancakes{
+    color:#dc7248;
+}
+.ingredientespancakes{
+    color:#8db580;
+}
+.listasbrownies{
+    color: #FADF39;
+}
+.paraelbrownie{
+    color:#96BF2E;
+}
+.listaspepas{
+    color:#d94a64;
+}
+.paralaspepas{
+    color:#3B60C4;
+}
+.leer{
+    color: #a23c26;
+}
+.volver{
+    color:#7cb518;
+}
+.leer{
+    color:#5c8001;
+}
+.ver{
+    color:#b4436c ;
+}
